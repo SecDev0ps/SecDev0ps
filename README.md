@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Now I'm working on <a href="https://github.com/GlTIab/vault-cheatsheet">Hashicorp Vault Cheatsheet</a></p>
+<p align="left">🧑‍💻 Now I'm working on <a href="https://github.com/Dev0psSec/vault-cheatsheet">Hashicorp Vault Cheatsheet</a></p>
 
 
 ###
@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GlTIab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev0psSec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -77,4 +77,4 @@
 
 ###
 <br clear="both">
-<img src="https://raw.githubusercontent.com/GlTIab/GlTIab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dev0psSec/Dev0psSec/output/snake.svg" alt="Snake animation" />
