@@ -54,23 +54,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://t.me/gitlab_runner" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.com/users/227668964333846528" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/DevSec0ps" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="https://medium.com/@DevSec0ps" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="25" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">My Latest Medium Post</h3>
 
 [![Recent Article 0](https://github-readme-medium-recent-article.vercel.app/medium/@DevSec0ps/0)](https://github-readme-medium-recent-article.vercel.app/medium/@DevSec0ps/0)
