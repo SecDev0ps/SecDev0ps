@@ -53,11 +53,5 @@
 </div>
 
 ###
-
-<h3 align="left">My Latest Medium Post</h3>
-
-[![Recent Article 0](https://github-readme-medium-recent-article.vercel.app/medium/@DevSec0ps/0)](https://github-readme-medium-recent-article.vercel.app/medium/@DevSec0ps/0)
-
-###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Dev0psSec/Dev0psSec/output/snake.svg" alt="Snake animation" />
